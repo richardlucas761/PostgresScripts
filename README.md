@@ -12,6 +12,14 @@ Which should give a response like this:
 
 Source: https://www.beekeeperstudio.io/blog/how-to-check-if-postgresql-is-running/
 
+## Check if the Postgres service is running on Linux
+
+```ps aux | grep postgres```
+
+    -- Source - https://stackoverflow.com/a/5665726
+    -- Posted by grantk, modified by community. See post 'Timeline' for change history
+    -- Retrieved 2026-03-01, License - CC BY-SA 3.0
+
 ## See Also
 
 Useful SQL Server scripts.
